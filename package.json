@@ -1,0 +1,15 @@
+{
+  "name": "node-sdl2-boilerplate",
+  "version": "1.0.0",
+  "description": "node-sdl2 boilerplate template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sdl2": "^2.1.2"
+  }
+}
